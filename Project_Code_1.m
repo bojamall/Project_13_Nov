@@ -71,3 +71,5 @@ figure(2); legend('800', '900', '1000', '1100', '1200'); grid on;
 xlabel('Time - hours'); ylabel('Oxide Thickness - microns');
 figure(3); legend('800', '900', '1000', '1100', '1200'); grid on;
 xlabel('Time - hours'); ylabel('Oxide Thickness - microns');
+
+% finish
